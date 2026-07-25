@@ -1,4 +1,4 @@
-aiogram==3.4.1
-aiosqlite==0.20.0
-pydantic-core==2.16.3
+aiogram==2.25.1
+aiosqlite==0.18.0
+
 
